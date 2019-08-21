@@ -10,13 +10,6 @@ namespace NumberToWordConvertor
     {
         static void Main(string[] args)
         {
-            //LinkedListCreation();
-            //Console.WriteLine("################################");
-            //LinkedListSearch();
-            //Console.WriteLine("################################");
-            //LinkedListLoop();
-            //Console.WriteLine("################################");
-
             while (true)
             {
                 Console.Write("Enter a number: ");
